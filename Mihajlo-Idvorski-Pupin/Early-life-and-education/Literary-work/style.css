@@ -1,0 +1,39 @@
+body { 
+    background-color: lemonchiffon;
+    font-family: sans-serif;
+
+    
+}
+ul, li, a {
+    color:#666;
+    background-color:burlywood;
+}
+
+#main_head{
+        height: 100px;
+        background: rgba(255, 0, 0, .4);
+        font-size: 24px;
+        border: 1px solid black;
+        margin: 2px;
+}
+
+#main_stanga{
+    float: left;
+    
+    width: 300px;
+   
+    background: rgba(0, 0, 255, .4);
+    border: 1px solid black;
+    margin: 2px;   }
+    
+    #main_conteiner{
+        float: left;
+        width: 400px;
+        border: 1px solid black;
+        margin:2px
+    }
+    #main_dreapta {
+        float: right;
+
+        width: 530px;
+    }
