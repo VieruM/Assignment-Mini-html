@@ -31,17 +31,23 @@ table, th, td {
      border: 1px solid black;
      background-color:  rgba(0, 0, 255, .4);
      margin: 2px;
+     width: 245px;
    
   }
-  #main_continut {
-      float:center;
-      margin: 1px;
-      border: 1px solid black;
-      display: none
+
   }
   #main_dreapta {
-    float:center;
-    margin: 4px;
+    float:right;
+    margin: 2px;
     border: 1px solid black;
+   
+    width: 300px;
  
 }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+  }
+ 

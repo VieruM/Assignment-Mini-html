@@ -37,3 +37,19 @@ ul, li, a {
 
         width: 530px;
     }
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 80%;
+        margin: 0 auto;
+      }
+      th {
+          padding:10px;
+      }
+      td {
+          padding: 12px;
+        
+      }
+      #heading {
+          background-color: plum;
+      }
